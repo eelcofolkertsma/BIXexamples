@@ -1,7 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--
-Originating segment added
--->
 <ns:IATA_Baggage_BagRS xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.iata.org/IATA/2015/BIX/00/IATA_Baggage_CommonTypes" xmlns:ns="http://www.iata.org/IATA/2015/BIX/00/IATA_Baggage_BagRS">
   <ns:BagSegment>
     <Bag>
@@ -53,7 +50,6 @@ Originating segment added
     </CarryingSegment>
     <ClassOfServiceCode>J</ClassOfServiceCode>
     <DeliveringBagSegment>
-      <!-- Originating segment added -->
       <AircraftScheduledDepDateTime>2024-09-09T00:00:00</AircraftScheduledDepDateTime>
       <ArrivalIATA_LocationCode>BBB</ArrivalIATA_LocationCode>
       <CarrierDesigCode>AS</CarrierDesigCode>
